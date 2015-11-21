@@ -1,6 +1,5 @@
 require "move_github_issues/version"
 require "octokit"
-require "pry"
 
 class MoveGithubIssues
 
